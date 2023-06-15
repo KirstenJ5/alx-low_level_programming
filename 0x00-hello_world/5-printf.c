@@ -4,9 +4,10 @@
  *
  * Return: Always 0 (Success)
  */
-int main (void)
+int main(void)
 {
 	char *bob = "with proper grammar, but the outcome is a piece of art,";
+
 	printf("%s\n", bob);
 	return (0);
 }
