@@ -12,9 +12,9 @@ int main(void)
 {
 int i;
 
-for (rv = 'z'; i >= 'a'; rv--)
+for (ch = 'z'; i >= 'a'; ch--)
 {
-putchar(rv);
+putchar(ch);
 }
 putchar('\n');
 return (0);
