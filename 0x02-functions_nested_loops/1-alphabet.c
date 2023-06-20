@@ -1,7 +1,7 @@
 #include "main.h"
 /* betty style doc for function main goes there */
 /**
- * print_alphabet(void) - Print alphabet
+ * print_alphabet - Print alphabet
  *
  * Return: Always 0 (Success)
  */
