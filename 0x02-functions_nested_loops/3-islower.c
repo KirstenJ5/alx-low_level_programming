@@ -1,11 +1,11 @@
 #include "main.h"
 /* betty style doc for function main goes there */
 /**
- * int_islower - Check lowercase character
+ * int_islower int c - Check lowercase character
  *
  * Return: Always 0 (Success)
  */
-int _islower (int c)
+int _islower(int c)
 {
 	if (c >= 97 && c <= 122)
 	{
