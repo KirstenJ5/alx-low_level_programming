@@ -1,7 +1,7 @@
 #include "main.h"
 /* betty style doc for function main goes there */
 /**
- *_islower int c - Check lowercase character
+ *_islower - Check lowercase character
  *
  * Return: Always 0 (Success)
  */
