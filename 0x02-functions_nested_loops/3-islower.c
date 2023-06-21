@@ -2,7 +2,8 @@
 /* betty style doc for function main goes there */
 /**
  *_islower - Check lowercase character
- *write a function that checks lowercase
+ *
+ * @c:
  *
  * Return: 1 if c is true, return 0 if otherwise
  */
