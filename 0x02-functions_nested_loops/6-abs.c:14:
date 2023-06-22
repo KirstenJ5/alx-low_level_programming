@@ -1,0 +1,6 @@
+bbs.c:18: ERROR: trailing whitespace
+6-abs.c:18: ERROR: parentheses are required on a return statement
+6-abs.c:20: ERROR: trailing whitespaces.c:18: ERROR: trailing whitespace
+6-abs.c:18: ERROR: parentheses are required on a return statement
+6-abs.c:20: ERROR: trailing whitespac
+
