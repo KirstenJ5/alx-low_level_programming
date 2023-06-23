@@ -4,13 +4,14 @@
 * mul - Function that multiplies two integers
 *
 *
-* @a:||@b:
-*
+* @a:First int
+* @b:Secont int
+* mul - multiply  2 int
 *
 * Return: Always 0 (Success)
 */
+
 int mul(int a, int b)
 {
-	mul = (int a * int b);
-	_putchar(a * b);
+	return (a * b);
 }
